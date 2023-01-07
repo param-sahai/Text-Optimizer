@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text-Optimizer/static/css/main.e6c13ad2.css",
+    "main.js": "/Text-Optimizer/static/js/main.647334e8.js",
+    "static/js/787.2746eaee.chunk.js": "/Text-Optimizer/static/js/787.2746eaee.chunk.js",
+    "index.html": "/Text-Optimizer/index.html",
+    "main.e6c13ad2.css.map": "/Text-Optimizer/static/css/main.e6c13ad2.css.map",
+    "main.647334e8.js.map": "/Text-Optimizer/static/js/main.647334e8.js.map",
+    "787.2746eaee.chunk.js.map": "/Text-Optimizer/static/js/787.2746eaee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.647334e8.js"
+  ]
+}
